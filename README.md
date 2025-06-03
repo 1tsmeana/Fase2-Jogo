@@ -1,12 +1,12 @@
 # :computer: Fase 2 - Jogo "Corrida até o Ponto de Ônibus"
 
-## Sobre o trabalho
+## Sobre o Projeto
 Este projeto foi desenvolvido como atividade para a disciplina de Jogos Digitais, no curso de Sistemas de Informação da Universidade Veiga de Almeida (UVA).
 O objetivo era aplicar conceitos de desenvolvimento de jogos, como movimentação, colisão, cenas interativas e narrativa.
 
 ## Sobre o Jogo
 A proposta do jogo é acompanhar o dia a dia de um estudante que precisa chegar na faculdade.
-- Na fase 1, o personaligem realiza ações interativas dentro da casa, como acordar, trocar de roupa e tomar café.
+- Na fase 1, o personagem realiza ações interativas dentro da casa, como acordar, trocar de roupa e tomar café.
 - Já na fase 2 (este projeto), é ajudar o personagem a chegar no ponto de ônibus passando por todos os obstáculos.
 
 Após essa fase, o jogo ainda conta com outras etapas, como a chegada na faculdade, onde o personagem precisa explorar o campus e encontrar o caminho até a sala de aula.
